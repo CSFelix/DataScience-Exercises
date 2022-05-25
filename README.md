@@ -6,6 +6,8 @@
 * My first exercises in DataScience with python!!
 
 ----
+<br>
+
 ### `⚒️ Tools ⚒️`
 
 * Python version 3.6 or above;
@@ -13,6 +15,8 @@
 * Jupyter Notebook
 
 ----
+<br>
+
 ### `⚙️ Run ⚙️`
 
 > **Installing Pandas**
@@ -34,16 +38,22 @@ jupyter notebook
 ```
 
 ----
+<br>
+
 ### `📝 Notes 📝`
 
 * **DataSets:** the datasets used in the exercises can be found in <i>data_sets</i> folder.
 
 ----
+<br>
+
 ### `🎁 Bonus 🎁`
 
 * If you have ideas of how to improve the code and the analysis, feel free to create branches of this project!!
 
 ----
+<br>
+
 ### `📫 Reach Me 📫`
 
 > **Email:** **[csfelix08@gmail.com](mailto:csfelix08@gmail.com?)**
