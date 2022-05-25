@@ -1,6 +1,8 @@
 <h1 align="center">🌟 DataScience Exercises 🌟</h1>
 
 ----
+<br>
+
 ### `❓ What's it? ❓`
 
 * My first exercises in DataScience with python!!
