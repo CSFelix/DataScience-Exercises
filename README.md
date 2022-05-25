@@ -44,7 +44,11 @@ jupyter notebook
 
 ### `📝 Notes 📝`
 
-* **DataSets:** the datasets used in the exercises can be found in <i>data_sets</i> folder.
+* **DataSets:** the datasets used in the exercises can be found in the folloiwn Kaggle links:
+
+```
+
+```
 
 ----
 <br>
@@ -67,3 +71,5 @@ jupyter notebook
 ----
 
 > **Portfolio:** **[CSFelix.io](https://csfelix.github.io/)**
+
+> **Kaggle:** **[DSFelix](https://www.kaggle.com/dsfelix)**
