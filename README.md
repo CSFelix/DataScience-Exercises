@@ -1,4 +1,4 @@
-# 🌟 DataScience Exercises 🌟
+<h1 align="center">🌟 DataScience Exercises 🌟</h1>
 
 ----
 ### `❓ What's it? ❓`
