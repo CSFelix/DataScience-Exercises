@@ -48,8 +48,11 @@ jupyter notebook
 
 
 **- purchases.txt: https://www.kaggle.com/datasets/dsfelix/purchasestxt**
+<br>
 **- access_log: https://www.kaggle.com/datasets/dsfelix/access-log**
+<br>
 **- forum_users.tsv: https://www.kaggle.com/datasets/dsfelix/forum-users**
+<br>
 **- forum_node.tsv: https://www.kaggle.com/datasets/dsfelix/forum-node**
 
 
