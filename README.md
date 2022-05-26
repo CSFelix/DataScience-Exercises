@@ -46,12 +46,12 @@ jupyter notebook
 
 * **DataSets:** the datasets used in the exercises can be found in the folloiwn Kaggle links:
 
-```
-- purchases.txt: https://www.kaggle.com/datasets/dsfelix/purchasestxt
-- access_log: https://www.kaggle.com/datasets/dsfelix/access-log
-- forum_users.tsv: https://www.kaggle.com/datasets/dsfelix/forum-users
-- forum_node.tsv: https://www.kaggle.com/datasets/dsfelix/forum-node
-```
+
+**- purchases.txt: https://www.kaggle.com/datasets/dsfelix/purchasestxt**
+**- access_log: https://www.kaggle.com/datasets/dsfelix/access-log**
+**- forum_users.tsv: https://www.kaggle.com/datasets/dsfelix/forum-users**
+**- forum_node.tsv: https://www.kaggle.com/datasets/dsfelix/forum-node**
+
 
 ----
 <br>
