@@ -5,16 +5,14 @@
 
 ### `❓ What's it? ❓`
 
-
+* My first exercises in DataScience with python!!
 
 ----
 <br>
 
 ### `⚒️ Tools ⚒️`
 
-* Python version 3.6 or above;
-* Anaconda and Python DataScience Stack (pandas in particular);
-* Jupyter Notebook
+
 
 ----
 <br>
