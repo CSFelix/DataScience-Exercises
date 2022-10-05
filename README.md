@@ -5,7 +5,7 @@
 
 ### `❓ What's it? ❓`
 
-* My first exercises in DataScience with python!!
+
 
 ----
 <br>
