@@ -13,6 +13,7 @@
 ### `⚒️ Tools ⚒️`
 
 * Python version 3.6 or above;
+* Anaconda and Python DataScience Stack (pandas in particular);
 
 
 ----
